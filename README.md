@@ -12,7 +12,6 @@ Deployable AWS Secrets Manager rotation Lambda functions.
   * Postgres ***(standard/already exists)***
   * Redshift ***(standard/already exists)***
   * Mysql ***(standard/already exists)***
-  * DynamoDB?
   * Snowflake?
   * Glue?
 * Others
